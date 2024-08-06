@@ -1,0 +1,42 @@
+[
+    {
+        "question_id": 56003,
+        "rerank_time": 0.30794739723205566
+    },
+    {
+        "question_id": 13772,
+        "rerank_time": 9.679852485656738
+    },
+    {
+        "question_id": 4669,
+        "rerank_time": 0.2294304370880127
+    },
+    {
+        "question_id": 13626,
+        "rerank_time": 0.34060001373291016
+    },
+    {
+        "question_id": 19130,
+        "rerank_time": 0.22057056427001953
+    },
+    {
+        "question_id": 76720,
+        "rerank_time": 0.3778092861175537
+    },
+    {
+        "question_id": 63115,
+        "rerank_time": 0.2755603790283203
+    },
+    {
+        "question_id": 1334,
+        "rerank_time": 9.767621994018555
+    },
+    {
+        "question_id": 42567,
+        "rerank_time": 0.2614283561706543
+    },
+    {
+        "question_id": 71287,
+        "rerank_time": 0.21649384498596191
+    }
+]

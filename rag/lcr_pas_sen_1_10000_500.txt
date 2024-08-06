@@ -1,0 +1,16 @@
+[
+    {
+        "question_id": 3910,
+        "search_time": 0.32019495964050293,
+        "question": "The Stamp Act Congress had a meeting in 1765 in which US city?",
+        "rerank_pas_sen_time": 1.0350828170776367,
+        "rerank_dslr_time": 0.10030317306518555,
+        "title_pas_sen": "New_York_City",
+        "title_dslr": "New_York_City",
+        "context_pas_sen": "The Stamp Act Congress met in New York in October 1765 as the Sons of Liberty organized in the city, skirmishing over the next ten years with British troops stationed there.",
+        "context_dslr   ": "The Stamp Act Congress met in New York in October 1765 as the Sons of Liberty organized in the city, skirmishing over the next ten years with British troops stationed there.",
+        "ground_truth_sen": "The Stamp Act Congress met in New York in October 1765 as the Sons of Liberty organized in the city, skirmishing over the next ten years with British troops stationed there.",
+        "ground_truth_answer": "New York",
+        "baseline_top_1:": "The trial in Manhattan of John Peter Zenger in 1735 helped to establish the freedom of the press in North America. In 1754, Columbia University was founded under charter by King George II as King's College in Lower Manhattan. The Stamp Act Congress met in New York in October 1765 as the Sons of Liberty organized in the city, skirmishing over the next ten years with British troops stationed there."
+    }
+]

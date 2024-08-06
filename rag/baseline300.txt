@@ -1,0 +1,2102 @@
+[
+    {
+        "question_id": 481,
+        "response_time": 0.536785364151001,
+        "token_count": 195,
+        "word_count": 119,
+        "accuracy": true
+    },
+    {
+        "question_id": 19953,
+        "response_time": 0.5017421245574951,
+        "token_count": 196,
+        "word_count": 138,
+        "accuracy": false
+    },
+    {
+        "question_id": 17375,
+        "response_time": 1.4897582530975342,
+        "token_count": 161,
+        "word_count": 91,
+        "accuracy": true
+    },
+    {
+        "question_id": 15790,
+        "response_time": 1.279634952545166,
+        "token_count": 172,
+        "word_count": 105,
+        "accuracy": false
+    },
+    {
+        "question_id": 56476,
+        "response_time": 0.8637046813964844,
+        "token_count": 250,
+        "word_count": 143,
+        "accuracy": true
+    },
+    {
+        "question_id": 74303,
+        "response_time": 0.2928905487060547,
+        "token_count": 204,
+        "word_count": 152,
+        "accuracy": false
+    },
+    {
+        "question_id": 66711,
+        "response_time": 1.527907133102417,
+        "token_count": 138,
+        "word_count": 99,
+        "accuracy": false
+    },
+    {
+        "question_id": 35598,
+        "response_time": 2.819720983505249,
+        "token_count": 290,
+        "word_count": 198,
+        "accuracy": false
+    },
+    {
+        "question_id": 51035,
+        "response_time": 0.2974710464477539,
+        "token_count": 141,
+        "word_count": 107,
+        "accuracy": false
+    },
+    {
+        "question_id": 25063,
+        "response_time": 2.3924615383148193,
+        "token_count": 115,
+        "word_count": 82,
+        "accuracy": false
+    },
+    {
+        "question_id": 6638,
+        "response_time": 1.946441650390625,
+        "token_count": 191,
+        "word_count": 150,
+        "accuracy": false
+    },
+    {
+        "question_id": 70421,
+        "response_time": 1.1109898090362549,
+        "token_count": 164,
+        "word_count": 104,
+        "accuracy": false
+    },
+    {
+        "question_id": 38854,
+        "response_time": 0.2882053852081299,
+        "token_count": 364,
+        "word_count": 221,
+        "accuracy": false
+    },
+    {
+        "question_id": 42576,
+        "response_time": 0.8098287582397461,
+        "token_count": 185,
+        "word_count": 111,
+        "accuracy": false
+    },
+    {
+        "question_id": 49018,
+        "response_time": 0.6188924312591553,
+        "token_count": 143,
+        "word_count": 82,
+        "accuracy": true
+    },
+    {
+        "question_id": 68632,
+        "response_time": 1.8894312381744385,
+        "token_count": 258,
+        "word_count": 113,
+        "accuracy": false
+    },
+    {
+        "question_id": 40395,
+        "response_time": 0.5605480670928955,
+        "token_count": 233,
+        "word_count": 177,
+        "accuracy": false
+    },
+    {
+        "question_id": 35878,
+        "response_time": 0.7517857551574707,
+        "token_count": 169,
+        "word_count": 111,
+        "accuracy": true
+    },
+    {
+        "question_id": 44061,
+        "response_time": 0.727855920791626,
+        "token_count": 205,
+        "word_count": 128,
+        "accuracy": false
+    },
+    {
+        "question_id": 40580,
+        "response_time": 0.7889885902404785,
+        "token_count": 157,
+        "word_count": 116,
+        "accuracy": true
+    },
+    {
+        "question_id": 13613,
+        "response_time": 0.3729064464569092,
+        "token_count": 128,
+        "word_count": 80,
+        "accuracy": false
+    },
+    {
+        "question_id": 23861,
+        "response_time": 0.4467453956604004,
+        "token_count": 74,
+        "word_count": 53,
+        "accuracy": true
+    },
+    {
+        "question_id": 16561,
+        "response_time": 1.5404627323150635,
+        "token_count": 86,
+        "word_count": 64,
+        "accuracy": false
+    },
+    {
+        "question_id": 20391,
+        "response_time": 0.29410362243652344,
+        "token_count": 241,
+        "word_count": 135,
+        "accuracy": false
+    },
+    {
+        "question_id": 54656,
+        "response_time": 2.0359177589416504,
+        "token_count": 215,
+        "word_count": 146,
+        "accuracy": false
+    },
+    {
+        "question_id": 3487,
+        "response_time": 2.1593129634857178,
+        "token_count": 278,
+        "word_count": 192,
+        "accuracy": false
+    },
+    {
+        "question_id": 53278,
+        "response_time": 0.5038132667541504,
+        "token_count": 260,
+        "word_count": 145,
+        "accuracy": false
+    },
+    {
+        "question_id": 16991,
+        "response_time": 1.487720012664795,
+        "token_count": 336,
+        "word_count": 196,
+        "accuracy": true
+    },
+    {
+        "question_id": 3233,
+        "response_time": 1.0527632236480713,
+        "token_count": 206,
+        "word_count": 144,
+        "accuracy": false
+    },
+    {
+        "question_id": 19603,
+        "response_time": 0.7748007774353027,
+        "token_count": 150,
+        "word_count": 93,
+        "accuracy": false
+    },
+    {
+        "question_id": 59809,
+        "response_time": 1.205390453338623,
+        "token_count": 154,
+        "word_count": 114,
+        "accuracy": false
+    },
+    {
+        "question_id": 76376,
+        "response_time": 3.4056732654571533,
+        "token_count": 206,
+        "word_count": 139,
+        "accuracy": false
+    },
+    {
+        "question_id": 15342,
+        "response_time": 0.3538665771484375,
+        "token_count": 84,
+        "word_count": 57,
+        "accuracy": false
+    },
+    {
+        "question_id": 58975,
+        "response_time": 2.763972520828247,
+        "token_count": 311,
+        "word_count": 133,
+        "accuracy": false
+    },
+    {
+        "question_id": 23884,
+        "response_time": 0.580578088760376,
+        "token_count": 146,
+        "word_count": 102,
+        "accuracy": true
+    },
+    {
+        "question_id": 50022,
+        "response_time": 0.6176183223724365,
+        "token_count": 269,
+        "word_count": 195,
+        "accuracy": true
+    },
+    {
+        "question_id": 20060,
+        "response_time": 0.39194226264953613,
+        "token_count": 152,
+        "word_count": 92,
+        "accuracy": false
+    },
+    {
+        "question_id": 17132,
+        "response_time": 1.6039824485778809,
+        "token_count": 244,
+        "word_count": 168,
+        "accuracy": false
+    },
+    {
+        "question_id": 40123,
+        "response_time": 0.9586818218231201,
+        "token_count": 133,
+        "word_count": 96,
+        "accuracy": false
+    },
+    {
+        "question_id": 2199,
+        "response_time": 2.7735273838043213,
+        "token_count": 136,
+        "word_count": 94,
+        "accuracy": false
+    },
+    {
+        "question_id": 19342,
+        "response_time": 1.5228075981140137,
+        "token_count": 108,
+        "word_count": 76,
+        "accuracy": true
+    },
+    {
+        "question_id": 9001,
+        "response_time": 0.5406625270843506,
+        "token_count": 199,
+        "word_count": 133,
+        "accuracy": false
+    },
+    {
+        "question_id": 36631,
+        "response_time": 0.5612740516662598,
+        "token_count": 272,
+        "word_count": 190,
+        "accuracy": true
+    },
+    {
+        "question_id": 62304,
+        "response_time": 0.6549937725067139,
+        "token_count": 107,
+        "word_count": 75,
+        "accuracy": false
+    },
+    {
+        "question_id": 52169,
+        "response_time": 3.2954678535461426,
+        "token_count": 178,
+        "word_count": 134,
+        "accuracy": false
+    },
+    {
+        "question_id": 67109,
+        "response_time": 0.4287388324737549,
+        "token_count": 117,
+        "word_count": 78,
+        "accuracy": true
+    },
+    {
+        "question_id": 25092,
+        "response_time": 0.7883870601654053,
+        "token_count": 249,
+        "word_count": 132,
+        "accuracy": false
+    },
+    {
+        "question_id": 51806,
+        "response_time": 1.3408424854278564,
+        "token_count": 277,
+        "word_count": 160,
+        "accuracy": false
+    },
+    {
+        "question_id": 22158,
+        "response_time": 0.40467047691345215,
+        "token_count": 435,
+        "word_count": 301,
+        "accuracy": false
+    },
+    {
+        "question_id": 200,
+        "response_time": 0.4117591381072998,
+        "token_count": 139,
+        "word_count": 94,
+        "accuracy": false
+    },
+    {
+        "question_id": 20006,
+        "response_time": 0.39180707931518555,
+        "token_count": 141,
+        "word_count": 92,
+        "accuracy": true
+    },
+    {
+        "question_id": 63135,
+        "response_time": 0.8423302173614502,
+        "token_count": 217,
+        "word_count": 152,
+        "accuracy": true
+    },
+    {
+        "question_id": 61745,
+        "response_time": 1.4127802848815918,
+        "token_count": 156,
+        "word_count": 89,
+        "accuracy": false
+    },
+    {
+        "question_id": 46432,
+        "response_time": 1.31819748878479,
+        "token_count": 246,
+        "word_count": 182,
+        "accuracy": true
+    },
+    {
+        "question_id": 56737,
+        "response_time": 0.2985091209411621,
+        "token_count": 148,
+        "word_count": 108,
+        "accuracy": false
+    },
+    {
+        "question_id": 33744,
+        "response_time": 1.150724172592163,
+        "token_count": 173,
+        "word_count": 109,
+        "accuracy": false
+    },
+    {
+        "question_id": 35443,
+        "response_time": 0.5257000923156738,
+        "token_count": 164,
+        "word_count": 113,
+        "accuracy": false
+    },
+    {
+        "question_id": 18460,
+        "response_time": 1.3009116649627686,
+        "token_count": 256,
+        "word_count": 130,
+        "accuracy": false
+    },
+    {
+        "question_id": 20508,
+        "response_time": 0.9674632549285889,
+        "token_count": 290,
+        "word_count": 189,
+        "accuracy": false
+    },
+    {
+        "question_id": 15581,
+        "response_time": 0.7485706806182861,
+        "token_count": 101,
+        "word_count": 59,
+        "accuracy": true
+    },
+    {
+        "question_id": 21892,
+        "response_time": 0.6948633193969727,
+        "token_count": 137,
+        "word_count": 81,
+        "accuracy": true
+    },
+    {
+        "question_id": 31835,
+        "response_time": 1.487165927886963,
+        "token_count": 211,
+        "word_count": 161,
+        "accuracy": false
+    },
+    {
+        "question_id": 22699,
+        "response_time": 1.296030044555664,
+        "token_count": 84,
+        "word_count": 64,
+        "accuracy": true
+    },
+    {
+        "question_id": 21857,
+        "response_time": 1.5437180995941162,
+        "token_count": 142,
+        "word_count": 109,
+        "accuracy": true
+    },
+    {
+        "question_id": 773,
+        "response_time": 3.8235116004943848,
+        "token_count": 275,
+        "word_count": 176,
+        "accuracy": false
+    },
+    {
+        "question_id": 70102,
+        "response_time": 1.8313517570495605,
+        "token_count": 319,
+        "word_count": 243,
+        "accuracy": true
+    },
+    {
+        "question_id": 77001,
+        "response_time": 1.3389031887054443,
+        "token_count": 151,
+        "word_count": 105,
+        "accuracy": true
+    },
+    {
+        "question_id": 29014,
+        "response_time": 0.4121100902557373,
+        "token_count": 170,
+        "word_count": 108,
+        "accuracy": false
+    },
+    {
+        "question_id": 43954,
+        "response_time": 1.5066068172454834,
+        "token_count": 128,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 71473,
+        "response_time": 0.3929576873779297,
+        "token_count": 148,
+        "word_count": 96,
+        "accuracy": false
+    },
+    {
+        "question_id": 8634,
+        "response_time": 0.6141407489776611,
+        "token_count": 193,
+        "word_count": 143,
+        "accuracy": true
+    },
+    {
+        "question_id": 18138,
+        "response_time": 0.2724909782409668,
+        "token_count": 55,
+        "word_count": 29,
+        "accuracy": true
+    },
+    {
+        "question_id": 27638,
+        "response_time": 0.6540601253509521,
+        "token_count": 212,
+        "word_count": 150,
+        "accuracy": false
+    },
+    {
+        "question_id": 32575,
+        "response_time": 0.7524576187133789,
+        "token_count": 182,
+        "word_count": 117,
+        "accuracy": false
+    },
+    {
+        "question_id": 22892,
+        "response_time": 0.936251163482666,
+        "token_count": 73,
+        "word_count": 49,
+        "accuracy": true
+    },
+    {
+        "question_id": 62718,
+        "response_time": 1.6426520347595215,
+        "token_count": 194,
+        "word_count": 120,
+        "accuracy": false
+    },
+    {
+        "question_id": 48968,
+        "response_time": 0.8630335330963135,
+        "token_count": 249,
+        "word_count": 125,
+        "accuracy": false
+    },
+    {
+        "question_id": 3868,
+        "response_time": 0.5797348022460938,
+        "token_count": 115,
+        "word_count": 72,
+        "accuracy": true
+    },
+    {
+        "question_id": 68410,
+        "response_time": 2.8912575244903564,
+        "token_count": 152,
+        "word_count": 105,
+        "accuracy": true
+    },
+    {
+        "question_id": 72701,
+        "response_time": 1.9642632007598877,
+        "token_count": 182,
+        "word_count": 128,
+        "accuracy": false
+    },
+    {
+        "question_id": 5183,
+        "response_time": 2.3229575157165527,
+        "token_count": 143,
+        "word_count": 97,
+        "accuracy": false
+    },
+    {
+        "question_id": 4930,
+        "response_time": 0.5635559558868408,
+        "token_count": 174,
+        "word_count": 136,
+        "accuracy": true
+    },
+    {
+        "question_id": 62029,
+        "response_time": 2.925283908843994,
+        "token_count": 104,
+        "word_count": 77,
+        "accuracy": false
+    },
+    {
+        "question_id": 21399,
+        "response_time": 0.4978005886077881,
+        "token_count": 60,
+        "word_count": 40,
+        "accuracy": true
+    },
+    {
+        "question_id": 17675,
+        "response_time": 0.4500277042388916,
+        "token_count": 176,
+        "word_count": 121,
+        "accuracy": true
+    },
+    {
+        "question_id": 15439,
+        "response_time": 0.4235553741455078,
+        "token_count": 52,
+        "word_count": 37,
+        "accuracy": true
+    },
+    {
+        "question_id": 38294,
+        "response_time": 1.8062291145324707,
+        "token_count": 304,
+        "word_count": 186,
+        "accuracy": false
+    },
+    {
+        "question_id": 21202,
+        "response_time": 0.42224979400634766,
+        "token_count": 54,
+        "word_count": 36,
+        "accuracy": false
+    },
+    {
+        "question_id": 34014,
+        "response_time": 0.46226000785827637,
+        "token_count": 197,
+        "word_count": 130,
+        "accuracy": true
+    },
+    {
+        "question_id": 30947,
+        "response_time": 3.1994481086730957,
+        "token_count": 209,
+        "word_count": 132,
+        "accuracy": false
+    },
+    {
+        "question_id": 14316,
+        "response_time": 1.1643750667572021,
+        "token_count": 81,
+        "word_count": 58,
+        "accuracy": false
+    },
+    {
+        "question_id": 69591,
+        "response_time": 0.4094045162200928,
+        "token_count": 111,
+        "word_count": 80,
+        "accuracy": true
+    },
+    {
+        "question_id": 57358,
+        "response_time": 1.167679786682129,
+        "token_count": 148,
+        "word_count": 95,
+        "accuracy": true
+    },
+    {
+        "question_id": 63632,
+        "response_time": 0.6744349002838135,
+        "token_count": 134,
+        "word_count": 85,
+        "accuracy": true
+    },
+    {
+        "question_id": 56673,
+        "response_time": 2.6463751792907715,
+        "token_count": 145,
+        "word_count": 96,
+        "accuracy": false
+    },
+    {
+        "question_id": 48834,
+        "response_time": 1.7506015300750732,
+        "token_count": 198,
+        "word_count": 132,
+        "accuracy": false
+    },
+    {
+        "question_id": 59837,
+        "response_time": 0.298992395401001,
+        "token_count": 141,
+        "word_count": 97,
+        "accuracy": false
+    },
+    {
+        "question_id": 44970,
+        "response_time": 0.6178443431854248,
+        "token_count": 208,
+        "word_count": 162,
+        "accuracy": false
+    },
+    {
+        "question_id": 28138,
+        "response_time": 0.6034493446350098,
+        "token_count": 127,
+        "word_count": 82,
+        "accuracy": false
+    },
+    {
+        "question_id": 22568,
+        "response_time": 0.4791877269744873,
+        "token_count": 51,
+        "word_count": 39,
+        "accuracy": false
+    },
+    {
+        "question_id": 38048,
+        "response_time": 0.31741833686828613,
+        "token_count": 157,
+        "word_count": 106,
+        "accuracy": false
+    },
+    {
+        "question_id": 15199,
+        "response_time": 0.41057825088500977,
+        "token_count": 62,
+        "word_count": 31,
+        "accuracy": false
+    },
+    {
+        "question_id": 62090,
+        "response_time": 0.41083598136901855,
+        "token_count": 145,
+        "word_count": 81,
+        "accuracy": false
+    },
+    {
+        "question_id": 21267,
+        "response_time": 0.31655359268188477,
+        "token_count": 174,
+        "word_count": 96,
+        "accuracy": false
+    },
+    {
+        "question_id": 54051,
+        "response_time": 3.7772536277770996,
+        "token_count": 108,
+        "word_count": 74,
+        "accuracy": false
+    },
+    {
+        "question_id": 32830,
+        "response_time": 0.5035204887390137,
+        "token_count": 266,
+        "word_count": 172,
+        "accuracy": true
+    },
+    {
+        "question_id": 40512,
+        "response_time": 0.37395524978637695,
+        "token_count": 183,
+        "word_count": 118,
+        "accuracy": false
+    },
+    {
+        "question_id": 38118,
+        "response_time": 0.29727888107299805,
+        "token_count": 149,
+        "word_count": 84,
+        "accuracy": false
+    },
+    {
+        "question_id": 55864,
+        "response_time": 0.9111428260803223,
+        "token_count": 252,
+        "word_count": 164,
+        "accuracy": false
+    },
+    {
+        "question_id": 23722,
+        "response_time": 2.0632071495056152,
+        "token_count": 258,
+        "word_count": 149,
+        "accuracy": false
+    },
+    {
+        "question_id": 24333,
+        "response_time": 0.41025280952453613,
+        "token_count": 110,
+        "word_count": 78,
+        "accuracy": false
+    },
+    {
+        "question_id": 21558,
+        "response_time": 0.3655269145965576,
+        "token_count": 48,
+        "word_count": 27,
+        "accuracy": false
+    },
+    {
+        "question_id": 28728,
+        "response_time": 0.3921937942504883,
+        "token_count": 161,
+        "word_count": 103,
+        "accuracy": false
+    },
+    {
+        "question_id": 56061,
+        "response_time": 1.6379573345184326,
+        "token_count": 219,
+        "word_count": 140,
+        "accuracy": false
+    },
+    {
+        "question_id": 66947,
+        "response_time": 0.330033540725708,
+        "token_count": 210,
+        "word_count": 134,
+        "accuracy": false
+    },
+    {
+        "question_id": 79926,
+        "response_time": 1.3995394706726074,
+        "token_count": 37,
+        "word_count": 25,
+        "accuracy": false
+    },
+    {
+        "question_id": 51176,
+        "response_time": 1.0513217449188232,
+        "token_count": 364,
+        "word_count": 212,
+        "accuracy": true
+    },
+    {
+        "question_id": 69707,
+        "response_time": 2.2698469161987305,
+        "token_count": 187,
+        "word_count": 102,
+        "accuracy": false
+    },
+    {
+        "question_id": 74683,
+        "response_time": 0.9391131401062012,
+        "token_count": 140,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 10678,
+        "response_time": 0.2543163299560547,
+        "token_count": 64,
+        "word_count": 48,
+        "accuracy": false
+    },
+    {
+        "question_id": 208,
+        "response_time": 1.1694564819335938,
+        "token_count": 155,
+        "word_count": 114,
+        "accuracy": false
+    },
+    {
+        "question_id": 37166,
+        "response_time": 3.233715295791626,
+        "token_count": 202,
+        "word_count": 124,
+        "accuracy": false
+    },
+    {
+        "question_id": 2437,
+        "response_time": 1.6078455448150635,
+        "token_count": 369,
+        "word_count": 242,
+        "accuracy": false
+    },
+    {
+        "question_id": 13650,
+        "response_time": 0.4114687442779541,
+        "token_count": 161,
+        "word_count": 107,
+        "accuracy": false
+    },
+    {
+        "question_id": 51080,
+        "response_time": 0.6182050704956055,
+        "token_count": 252,
+        "word_count": 176,
+        "accuracy": true
+    },
+    {
+        "question_id": 36022,
+        "response_time": 0.5071778297424316,
+        "token_count": 184,
+        "word_count": 135,
+        "accuracy": false
+    },
+    {
+        "question_id": 42144,
+        "response_time": 0.5572621822357178,
+        "token_count": 208,
+        "word_count": 119,
+        "accuracy": false
+    },
+    {
+        "question_id": 487,
+        "response_time": 0.5571975708007812,
+        "token_count": 195,
+        "word_count": 119,
+        "accuracy": true
+    },
+    {
+        "question_id": 25817,
+        "response_time": 0.8478991985321045,
+        "token_count": 174,
+        "word_count": 112,
+        "accuracy": false
+    },
+    {
+        "question_id": 65782,
+        "response_time": 0.34918689727783203,
+        "token_count": 204,
+        "word_count": 139,
+        "accuracy": false
+    },
+    {
+        "question_id": 79409,
+        "response_time": 0.6354653835296631,
+        "token_count": 235,
+        "word_count": 148,
+        "accuracy": false
+    },
+    {
+        "question_id": 69413,
+        "response_time": 1.354480504989624,
+        "token_count": 132,
+        "word_count": 86,
+        "accuracy": true
+    },
+    {
+        "question_id": 41256,
+        "response_time": 0.3553962707519531,
+        "token_count": 156,
+        "word_count": 101,
+        "accuracy": false
+    },
+    {
+        "question_id": 57731,
+        "response_time": 0.4878857135772705,
+        "token_count": 165,
+        "word_count": 107,
+        "accuracy": false
+    },
+    {
+        "question_id": 74202,
+        "response_time": 4.697666883468628,
+        "token_count": 141,
+        "word_count": 95,
+        "accuracy": false
+    },
+    {
+        "question_id": 48255,
+        "response_time": 0.44466185569763184,
+        "token_count": 188,
+        "word_count": 136,
+        "accuracy": true
+    },
+    {
+        "question_id": 26386,
+        "response_time": 2.2403404712677,
+        "token_count": 191,
+        "word_count": 128,
+        "accuracy": true
+    },
+    {
+        "question_id": 47039,
+        "response_time": 0.3933885097503662,
+        "token_count": 122,
+        "word_count": 91,
+        "accuracy": true
+    },
+    {
+        "question_id": 66995,
+        "response_time": 1.7172753810882568,
+        "token_count": 177,
+        "word_count": 84,
+        "accuracy": false
+    },
+    {
+        "question_id": 46374,
+        "response_time": 1.4506819248199463,
+        "token_count": 229,
+        "word_count": 142,
+        "accuracy": false
+    },
+    {
+        "question_id": 19151,
+        "response_time": 0.900848388671875,
+        "token_count": 125,
+        "word_count": 85,
+        "accuracy": false
+    },
+    {
+        "question_id": 48337,
+        "response_time": 0.3557302951812744,
+        "token_count": 175,
+        "word_count": 123,
+        "accuracy": true
+    },
+    {
+        "question_id": 12693,
+        "response_time": 0.5034043788909912,
+        "token_count": 108,
+        "word_count": 59,
+        "accuracy": true
+    },
+    {
+        "question_id": 29419,
+        "response_time": 1.2022655010223389,
+        "token_count": 124,
+        "word_count": 93,
+        "accuracy": true
+    },
+    {
+        "question_id": 27298,
+        "response_time": 1.2241616249084473,
+        "token_count": 147,
+        "word_count": 99,
+        "accuracy": false
+    },
+    {
+        "question_id": 50202,
+        "response_time": 2.3124611377716064,
+        "token_count": 257,
+        "word_count": 177,
+        "accuracy": true
+    },
+    {
+        "question_id": 73005,
+        "response_time": 0.6195125579833984,
+        "token_count": 147,
+        "word_count": 113,
+        "accuracy": false
+    },
+    {
+        "question_id": 8257,
+        "response_time": 1.4529144763946533,
+        "token_count": 146,
+        "word_count": 85,
+        "accuracy": false
+    },
+    {
+        "question_id": 66065,
+        "response_time": 1.2231941223144531,
+        "token_count": 136,
+        "word_count": 90,
+        "accuracy": false
+    },
+    {
+        "question_id": 44255,
+        "response_time": 0.6947834491729736,
+        "token_count": 262,
+        "word_count": 174,
+        "accuracy": false
+    },
+    {
+        "question_id": 60002,
+        "response_time": 1.1879794597625732,
+        "token_count": 177,
+        "word_count": 123,
+        "accuracy": false
+    },
+    {
+        "question_id": 72836,
+        "response_time": 2.938697099685669,
+        "token_count": 246,
+        "word_count": 189,
+        "accuracy": false
+    },
+    {
+        "question_id": 25770,
+        "response_time": 0.4857611656188965,
+        "token_count": 82,
+        "word_count": 58,
+        "accuracy": false
+    },
+    {
+        "question_id": 60787,
+        "response_time": 1.756633996963501,
+        "token_count": 172,
+        "word_count": 75,
+        "accuracy": true
+    },
+    {
+        "question_id": 6974,
+        "response_time": 2.2699341773986816,
+        "token_count": 51,
+        "word_count": 30,
+        "accuracy": false
+    },
+    {
+        "question_id": 66789,
+        "response_time": 0.6734316349029541,
+        "token_count": 99,
+        "word_count": 67,
+        "accuracy": false
+    },
+    {
+        "question_id": 28579,
+        "response_time": 0.5877740383148193,
+        "token_count": 305,
+        "word_count": 198,
+        "accuracy": true
+    },
+    {
+        "question_id": 8381,
+        "response_time": 0.5785698890686035,
+        "token_count": 61,
+        "word_count": 36,
+        "accuracy": true
+    },
+    {
+        "question_id": 3429,
+        "response_time": 0.31362462043762207,
+        "token_count": 251,
+        "word_count": 175,
+        "accuracy": true
+    },
+    {
+        "question_id": 64718,
+        "response_time": 0.3357813358306885,
+        "token_count": 157,
+        "word_count": 78,
+        "accuracy": false
+    },
+    {
+        "question_id": 15793,
+        "response_time": 0.46763181686401367,
+        "token_count": 142,
+        "word_count": 94,
+        "accuracy": false
+    },
+    {
+        "question_id": 25816,
+        "response_time": 0.9792478084564209,
+        "token_count": 174,
+        "word_count": 112,
+        "accuracy": true
+    },
+    {
+        "question_id": 14189,
+        "response_time": 1.8084328174591064,
+        "token_count": 114,
+        "word_count": 76,
+        "accuracy": false
+    },
+    {
+        "question_id": 2122,
+        "response_time": 0.7091829776763916,
+        "token_count": 209,
+        "word_count": 134,
+        "accuracy": false
+    },
+    {
+        "question_id": 61118,
+        "response_time": 1.7538561820983887,
+        "token_count": 156,
+        "word_count": 104,
+        "accuracy": true
+    },
+    {
+        "question_id": 29439,
+        "response_time": 1.1292204856872559,
+        "token_count": 150,
+        "word_count": 116,
+        "accuracy": false
+    },
+    {
+        "question_id": 62216,
+        "response_time": 2.246936321258545,
+        "token_count": 541,
+        "word_count": 345,
+        "accuracy": false
+    },
+    {
+        "question_id": 48316,
+        "response_time": 0.5011262893676758,
+        "token_count": 200,
+        "word_count": 128,
+        "accuracy": true
+    },
+    {
+        "question_id": 47643,
+        "response_time": 2.1171374320983887,
+        "token_count": 42,
+        "word_count": 20,
+        "accuracy": false
+    },
+    {
+        "question_id": 43727,
+        "response_time": 1.9246087074279785,
+        "token_count": 231,
+        "word_count": 170,
+        "accuracy": false
+    },
+    {
+        "question_id": 9930,
+        "response_time": 0.4664750099182129,
+        "token_count": 93,
+        "word_count": 50,
+        "accuracy": true
+    },
+    {
+        "question_id": 34361,
+        "response_time": 0.3161172866821289,
+        "token_count": 132,
+        "word_count": 95,
+        "accuracy": false
+    },
+    {
+        "question_id": 8974,
+        "response_time": 0.712242841720581,
+        "token_count": 225,
+        "word_count": 127,
+        "accuracy": false
+    },
+    {
+        "question_id": 60880,
+        "response_time": 2.0778579711914062,
+        "token_count": 174,
+        "word_count": 109,
+        "accuracy": false
+    },
+    {
+        "question_id": 22184,
+        "response_time": 0.4503600597381592,
+        "token_count": 163,
+        "word_count": 107,
+        "accuracy": false
+    },
+    {
+        "question_id": 17649,
+        "response_time": 0.41131043434143066,
+        "token_count": 94,
+        "word_count": 59,
+        "accuracy": false
+    },
+    {
+        "question_id": 6934,
+        "response_time": 0.46030426025390625,
+        "token_count": 53,
+        "word_count": 33,
+        "accuracy": true
+    },
+    {
+        "question_id": 44064,
+        "response_time": 1.6576159000396729,
+        "token_count": 212,
+        "word_count": 136,
+        "accuracy": false
+    },
+    {
+        "question_id": 5342,
+        "response_time": 1.883784294128418,
+        "token_count": 202,
+        "word_count": 132,
+        "accuracy": true
+    },
+    {
+        "question_id": 64114,
+        "response_time": 0.35340142250061035,
+        "token_count": 129,
+        "word_count": 83,
+        "accuracy": false
+    },
+    {
+        "question_id": 26564,
+        "response_time": 2.7443413734436035,
+        "token_count": 188,
+        "word_count": 125,
+        "accuracy": true
+    },
+    {
+        "question_id": 78723,
+        "response_time": 1.377758502960205,
+        "token_count": 179,
+        "word_count": 107,
+        "accuracy": false
+    },
+    {
+        "question_id": 51714,
+        "response_time": 1.4309349060058594,
+        "token_count": 217,
+        "word_count": 136,
+        "accuracy": true
+    },
+    {
+        "question_id": 46237,
+        "response_time": 0.23550772666931152,
+        "token_count": 226,
+        "word_count": 120,
+        "accuracy": false
+    },
+    {
+        "question_id": 8401,
+        "response_time": 1.2236366271972656,
+        "token_count": 219,
+        "word_count": 157,
+        "accuracy": false
+    },
+    {
+        "question_id": 12243,
+        "response_time": 1.4288849830627441,
+        "token_count": 113,
+        "word_count": 77,
+        "accuracy": false
+    },
+    {
+        "question_id": 3689,
+        "response_time": 1.9401600360870361,
+        "token_count": 111,
+        "word_count": 66,
+        "accuracy": false
+    },
+    {
+        "question_id": 3181,
+        "response_time": 0.35437655448913574,
+        "token_count": 258,
+        "word_count": 176,
+        "accuracy": true
+    },
+    {
+        "question_id": 43200,
+        "response_time": 0.581303596496582,
+        "token_count": 164,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 60981,
+        "response_time": 1.2610812187194824,
+        "token_count": 229,
+        "word_count": 156,
+        "accuracy": false
+    },
+    {
+        "question_id": 49284,
+        "response_time": 0.4273254871368408,
+        "token_count": 241,
+        "word_count": 169,
+        "accuracy": false
+    },
+    {
+        "question_id": 51990,
+        "response_time": 1.3554165363311768,
+        "token_count": 222,
+        "word_count": 150,
+        "accuracy": false
+    },
+    {
+        "question_id": 52586,
+        "response_time": 1.961151361465454,
+        "token_count": 148,
+        "word_count": 109,
+        "accuracy": false
+    },
+    {
+        "question_id": 70839,
+        "response_time": 1.1096689701080322,
+        "token_count": 229,
+        "word_count": 151,
+        "accuracy": false
+    },
+    {
+        "question_id": 68603,
+        "response_time": 1.2239813804626465,
+        "token_count": 154,
+        "word_count": 115,
+        "accuracy": false
+    },
+    {
+        "question_id": 2418,
+        "response_time": 0.389937162399292,
+        "token_count": 260,
+        "word_count": 164,
+        "accuracy": false
+    },
+    {
+        "question_id": 17979,
+        "response_time": 0.8259825706481934,
+        "token_count": 142,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 32874,
+        "response_time": 0.48853230476379395,
+        "token_count": 190,
+        "word_count": 129,
+        "accuracy": false
+    },
+    {
+        "question_id": 76378,
+        "response_time": 2.6828501224517822,
+        "token_count": 206,
+        "word_count": 139,
+        "accuracy": false
+    },
+    {
+        "question_id": 38740,
+        "response_time": 0.3540992736816406,
+        "token_count": 135,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 5392,
+        "response_time": 5.440303087234497,
+        "token_count": 144,
+        "word_count": 113,
+        "accuracy": false
+    },
+    {
+        "question_id": 15230,
+        "response_time": 0.4103851318359375,
+        "token_count": 99,
+        "word_count": 46,
+        "accuracy": false
+    },
+    {
+        "question_id": 31035,
+        "response_time": 4.227241516113281,
+        "token_count": 308,
+        "word_count": 197,
+        "accuracy": false
+    },
+    {
+        "question_id": 62345,
+        "response_time": 0.5971741676330566,
+        "token_count": 227,
+        "word_count": 139,
+        "accuracy": false
+    },
+    {
+        "question_id": 14084,
+        "response_time": 0.44838619232177734,
+        "token_count": 136,
+        "word_count": 79,
+        "accuracy": false
+    },
+    {
+        "question_id": 33892,
+        "response_time": 1.7362282276153564,
+        "token_count": 156,
+        "word_count": 103,
+        "accuracy": false
+    },
+    {
+        "question_id": 77915,
+        "response_time": 0.9370036125183105,
+        "token_count": 356,
+        "word_count": 243,
+        "accuracy": false
+    },
+    {
+        "question_id": 15722,
+        "response_time": 0.8554093837738037,
+        "token_count": 61,
+        "word_count": 44,
+        "accuracy": false
+    },
+    {
+        "question_id": 36031,
+        "response_time": 4.09314227104187,
+        "token_count": 172,
+        "word_count": 75,
+        "accuracy": false
+    },
+    {
+        "question_id": 55627,
+        "response_time": 3.8768372535705566,
+        "token_count": 253,
+        "word_count": 172,
+        "accuracy": false
+    },
+    {
+        "question_id": 79522,
+        "response_time": 1.0888543128967285,
+        "token_count": 218,
+        "word_count": 121,
+        "accuracy": false
+    },
+    {
+        "question_id": 28033,
+        "response_time": 1.389793872833252,
+        "token_count": 101,
+        "word_count": 70,
+        "accuracy": false
+    },
+    {
+        "question_id": 4501,
+        "response_time": 1.608696460723877,
+        "token_count": 49,
+        "word_count": 27,
+        "accuracy": false
+    },
+    {
+        "question_id": 21270,
+        "response_time": 1.27736234664917,
+        "token_count": 191,
+        "word_count": 134,
+        "accuracy": false
+    },
+    {
+        "question_id": 6967,
+        "response_time": 0.35445499420166016,
+        "token_count": 118,
+        "word_count": 85,
+        "accuracy": true
+    },
+    {
+        "question_id": 30414,
+        "response_time": 0.43130016326904297,
+        "token_count": 167,
+        "word_count": 127,
+        "accuracy": false
+    },
+    {
+        "question_id": 79831,
+        "response_time": 1.070073127746582,
+        "token_count": 120,
+        "word_count": 95,
+        "accuracy": false
+    },
+    {
+        "question_id": 21759,
+        "response_time": 0.20330190658569336,
+        "token_count": 165,
+        "word_count": 126,
+        "accuracy": true
+    },
+    {
+        "question_id": 7148,
+        "response_time": 0.7326748371124268,
+        "token_count": 158,
+        "word_count": 112,
+        "accuracy": false
+    },
+    {
+        "question_id": 53391,
+        "response_time": 1.6575062274932861,
+        "token_count": 130,
+        "word_count": 97,
+        "accuracy": false
+    },
+    {
+        "question_id": 17768,
+        "response_time": 1.803471326828003,
+        "token_count": 61,
+        "word_count": 45,
+        "accuracy": true
+    },
+    {
+        "question_id": 73286,
+        "response_time": 0.885789155960083,
+        "token_count": 182,
+        "word_count": 137,
+        "accuracy": true
+    },
+    {
+        "question_id": 30874,
+        "response_time": 0.9395327568054199,
+        "token_count": 108,
+        "word_count": 79,
+        "accuracy": true
+    },
+    {
+        "question_id": 30336,
+        "response_time": 1.8466870784759521,
+        "token_count": 143,
+        "word_count": 105,
+        "accuracy": true
+    },
+    {
+        "question_id": 79913,
+        "response_time": 1.3814647197723389,
+        "token_count": 37,
+        "word_count": 25,
+        "accuracy": false
+    },
+    {
+        "question_id": 12801,
+        "response_time": 0.9018380641937256,
+        "token_count": 236,
+        "word_count": 156,
+        "accuracy": false
+    },
+    {
+        "question_id": 22960,
+        "response_time": 0.8448667526245117,
+        "token_count": 148,
+        "word_count": 77,
+        "accuracy": false
+    },
+    {
+        "question_id": 1459,
+        "response_time": 0.6731381416320801,
+        "token_count": 242,
+        "word_count": 106,
+        "accuracy": false
+    },
+    {
+        "question_id": 16773,
+        "response_time": 0.2600424289703369,
+        "token_count": 131,
+        "word_count": 67,
+        "accuracy": true
+    },
+    {
+        "question_id": 63614,
+        "response_time": 0.3530542850494385,
+        "token_count": 117,
+        "word_count": 77,
+        "accuracy": false
+    },
+    {
+        "question_id": 25531,
+        "response_time": 1.9425592422485352,
+        "token_count": 149,
+        "word_count": 106,
+        "accuracy": false
+    },
+    {
+        "question_id": 71366,
+        "response_time": 0.39421510696411133,
+        "token_count": 147,
+        "word_count": 91,
+        "accuracy": false
+    },
+    {
+        "question_id": 55448,
+        "response_time": 0.5042099952697754,
+        "token_count": 123,
+        "word_count": 86,
+        "accuracy": false
+    },
+    {
+        "question_id": 63886,
+        "response_time": 0.5231812000274658,
+        "token_count": 124,
+        "word_count": 74,
+        "accuracy": false
+    },
+    {
+        "question_id": 60649,
+        "response_time": 0.5635147094726562,
+        "token_count": 167,
+        "word_count": 88,
+        "accuracy": true
+    },
+    {
+        "question_id": 52819,
+        "response_time": 0.5635082721710205,
+        "token_count": 188,
+        "word_count": 145,
+        "accuracy": true
+    },
+    {
+        "question_id": 17659,
+        "response_time": 3.734337091445923,
+        "token_count": 69,
+        "word_count": 42,
+        "accuracy": false
+    },
+    {
+        "question_id": 4016,
+        "response_time": 0.44787096977233887,
+        "token_count": 95,
+        "word_count": 73,
+        "accuracy": false
+    },
+    {
+        "question_id": 19476,
+        "response_time": 1.4841954708099365,
+        "token_count": 107,
+        "word_count": 79,
+        "accuracy": true
+    },
+    {
+        "question_id": 45259,
+        "response_time": 0.4853675365447998,
+        "token_count": 236,
+        "word_count": 170,
+        "accuracy": false
+    },
+    {
+        "question_id": 38944,
+        "response_time": 0.41132402420043945,
+        "token_count": 162,
+        "word_count": 102,
+        "accuracy": true
+    },
+    {
+        "question_id": 28,
+        "response_time": 1.2523424625396729,
+        "token_count": 282,
+        "word_count": 178,
+        "accuracy": false
+    },
+    {
+        "question_id": 61069,
+        "response_time": 0.3648955821990967,
+        "token_count": 413,
+        "word_count": 248,
+        "accuracy": false
+    },
+    {
+        "question_id": 71547,
+        "response_time": 0.3551163673400879,
+        "token_count": 140,
+        "word_count": 97,
+        "accuracy": true
+    },
+    {
+        "question_id": 26390,
+        "response_time": 1.825458288192749,
+        "token_count": 305,
+        "word_count": 148,
+        "accuracy": false
+    },
+    {
+        "question_id": 56340,
+        "response_time": 4.187826633453369,
+        "token_count": 249,
+        "word_count": 162,
+        "accuracy": false
+    },
+    {
+        "question_id": 11945,
+        "response_time": 0.3918912410736084,
+        "token_count": 83,
+        "word_count": 59,
+        "accuracy": false
+    },
+    {
+        "question_id": 13811,
+        "response_time": 0.4561574459075928,
+        "token_count": 301,
+        "word_count": 199,
+        "accuracy": true
+    },
+    {
+        "question_id": 14740,
+        "response_time": 0.4280850887298584,
+        "token_count": 82,
+        "word_count": 49,
+        "accuracy": false
+    },
+    {
+        "question_id": 37699,
+        "response_time": 1.6227056980133057,
+        "token_count": 238,
+        "word_count": 152,
+        "accuracy": false
+    },
+    {
+        "question_id": 26424,
+        "response_time": 1.2802300453186035,
+        "token_count": 245,
+        "word_count": 137,
+        "accuracy": true
+    },
+    {
+        "question_id": 57768,
+        "response_time": 1.548281192779541,
+        "token_count": 184,
+        "word_count": 125,
+        "accuracy": true
+    },
+    {
+        "question_id": 16272,
+        "response_time": 0.4602854251861572,
+        "token_count": 48,
+        "word_count": 32,
+        "accuracy": true
+    },
+    {
+        "question_id": 6108,
+        "response_time": 1.728452444076538,
+        "token_count": 282,
+        "word_count": 177,
+        "accuracy": false
+    },
+    {
+        "question_id": 39553,
+        "response_time": 1.486804723739624,
+        "token_count": 127,
+        "word_count": 89,
+        "accuracy": false
+    },
+    {
+        "question_id": 33037,
+        "response_time": 1.4897758960723877,
+        "token_count": 159,
+        "word_count": 95,
+        "accuracy": false
+    },
+    {
+        "question_id": 75985,
+        "response_time": 0.3734323978424072,
+        "token_count": 146,
+        "word_count": 110,
+        "accuracy": false
+    },
+    {
+        "question_id": 16244,
+        "response_time": 1.3557636737823486,
+        "token_count": 223,
+        "word_count": 163,
+        "accuracy": false
+    },
+    {
+        "question_id": 23166,
+        "response_time": 1.4470465183258057,
+        "token_count": 198,
+        "word_count": 123,
+        "accuracy": false
+    },
+    {
+        "question_id": 51859,
+        "response_time": 1.2563118934631348,
+        "token_count": 77,
+        "word_count": 32,
+        "accuracy": false
+    },
+    {
+        "question_id": 46204,
+        "response_time": 0.44857358932495117,
+        "token_count": 137,
+        "word_count": 82,
+        "accuracy": false
+    },
+    {
+        "question_id": 52970,
+        "response_time": 0.37352728843688965,
+        "token_count": 158,
+        "word_count": 92,
+        "accuracy": false
+    },
+    {
+        "question_id": 63401,
+        "response_time": 1.7122681140899658,
+        "token_count": 128,
+        "word_count": 93,
+        "accuracy": false
+    },
+    {
+        "question_id": 73416,
+        "response_time": 0.6171400547027588,
+        "token_count": 249,
+        "word_count": 177,
+        "accuracy": false
+    },
+    {
+        "question_id": 62233,
+        "response_time": 0.32126736640930176,
+        "token_count": 292,
+        "word_count": 187,
+        "accuracy": true
+    },
+    {
+        "question_id": 68387,
+        "response_time": 1.5669841766357422,
+        "token_count": 368,
+        "word_count": 220,
+        "accuracy": false
+    },
+    {
+        "question_id": 7992,
+        "response_time": 0.37523794174194336,
+        "token_count": 194,
+        "word_count": 137,
+        "accuracy": false
+    },
+    {
+        "question_id": 55648,
+        "response_time": 2.055495023727417,
+        "token_count": 131,
+        "word_count": 98,
+        "accuracy": true
+    },
+    {
+        "question_id": 20400,
+        "response_time": 1.5073533058166504,
+        "token_count": 148,
+        "word_count": 93,
+        "accuracy": false
+    },
+    {
+        "question_id": 58928,
+        "response_time": 0.6919176578521729,
+        "token_count": 96,
+        "word_count": 60,
+        "accuracy": false
+    },
+    {
+        "question_id": 79273,
+        "response_time": 3.978099822998047,
+        "token_count": 196,
+        "word_count": 127,
+        "accuracy": false
+    },
+    {
+        "question_id": 47140,
+        "response_time": 1.1106133460998535,
+        "token_count": 160,
+        "word_count": 123,
+        "accuracy": false
+    },
+    {
+        "question_id": 5357,
+        "response_time": 1.526893138885498,
+        "token_count": 142,
+        "word_count": 84,
+        "accuracy": true
+    },
+    {
+        "question_id": 24225,
+        "response_time": 1.5292184352874756,
+        "token_count": 183,
+        "word_count": 128,
+        "accuracy": false
+    },
+    {
+        "question_id": 60074,
+        "response_time": 0.37293267250061035,
+        "token_count": 133,
+        "word_count": 86,
+        "accuracy": true
+    },
+    {
+        "question_id": 9048,
+        "response_time": 1.3355741500854492,
+        "token_count": 187,
+        "word_count": 122,
+        "accuracy": true
+    },
+    {
+        "question_id": 59183,
+        "response_time": 0.674513578414917,
+        "token_count": 131,
+        "word_count": 88,
+        "accuracy": true
+    },
+    {
+        "question_id": 11654,
+        "response_time": 0.38312816619873047,
+        "token_count": 381,
+        "word_count": 230,
+        "accuracy": true
+    },
+    {
+        "question_id": 15255,
+        "response_time": 0.8825342655181885,
+        "token_count": 132,
+        "word_count": 93,
+        "accuracy": false
+    },
+    {
+        "question_id": 14295,
+        "response_time": 1.740377426147461,
+        "token_count": 62,
+        "word_count": 34,
+        "accuracy": false
+    },
+    {
+        "question_id": 940,
+        "response_time": 0.5425996780395508,
+        "token_count": 115,
+        "word_count": 78,
+        "accuracy": false
+    },
+    {
+        "question_id": 69588,
+        "response_time": 2.7835357189178467,
+        "token_count": 194,
+        "word_count": 151,
+        "accuracy": true
+    },
+    {
+        "question_id": 41229,
+        "response_time": 2.449091911315918,
+        "token_count": 341,
+        "word_count": 215,
+        "accuracy": false
+    },
+    {
+        "question_id": 28062,
+        "response_time": 1.9805712699890137,
+        "token_count": 136,
+        "word_count": 85,
+        "accuracy": false
+    },
+    {
+        "question_id": 64067,
+        "response_time": 0.20336627960205078,
+        "token_count": 168,
+        "word_count": 112,
+        "accuracy": false
+    },
+    {
+        "question_id": 69804,
+        "response_time": 0.48905444145202637,
+        "token_count": 183,
+        "word_count": 105,
+        "accuracy": false
+    },
+    {
+        "question_id": 5126,
+        "response_time": 4.289028644561768,
+        "token_count": 200,
+        "word_count": 139,
+        "accuracy": false
+    },
+    {
+        "question_id": 54625,
+        "response_time": 0.921898365020752,
+        "token_count": 165,
+        "word_count": 115,
+        "accuracy": false
+    },
+    {
+        "question_id": 19278,
+        "response_time": 1.0351064205169678,
+        "token_count": 156,
+        "word_count": 112,
+        "accuracy": false
+    },
+    {
+        "question_id": 77864,
+        "response_time": 3.291883707046509,
+        "token_count": 332,
+        "word_count": 243,
+        "accuracy": false
+    },
+    {
+        "question_id": 13917,
+        "response_time": 0.33515477180480957,
+        "token_count": 145,
+        "word_count": 83,
+        "accuracy": false
+    },
+    {
+        "question_id": 6899,
+        "response_time": 0.8229343891143799,
+        "token_count": 184,
+        "word_count": 103,
+        "accuracy": false
+    },
+    {
+        "question_id": 2627,
+        "response_time": 0.40865015983581543,
+        "token_count": 86,
+        "word_count": 51,
+        "accuracy": false
+    },
+    {
+        "question_id": 20205,
+        "response_time": 0.3488171100616455,
+        "token_count": 201,
+        "word_count": 109,
+        "accuracy": false
+    },
+    {
+        "question_id": 12156,
+        "response_time": 1.1254746913909912,
+        "token_count": 199,
+        "word_count": 142,
+        "accuracy": false
+    },
+    {
+        "question_id": 25334,
+        "response_time": 1.652536392211914,
+        "token_count": 82,
+        "word_count": 58,
+        "accuracy": false
+    },
+    {
+        "question_id": 37298,
+        "response_time": 1.6175973415374756,
+        "token_count": 117,
+        "word_count": 75,
+        "accuracy": false
+    },
+    {
+        "question_id": 43647,
+        "response_time": 0.36365771293640137,
+        "token_count": 351,
+        "word_count": 178,
+        "accuracy": false
+    },
+    {
+        "question_id": 73905,
+        "response_time": 1.604567527770996,
+        "token_count": 177,
+        "word_count": 113,
+        "accuracy": false
+    },
+    {
+        "question_id": 63422,
+        "response_time": 2.208173990249634,
+        "token_count": 305,
+        "word_count": 194,
+        "accuracy": false
+    }
+]
